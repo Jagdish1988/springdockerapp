@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.jp.kumaawat</groupId>
 	<artifactId>springdockerapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>springdockerapp</name>
 	<description>springdockerapp project for Spring Boot with docker and jenkins pipeline</description>
 	<url/>
